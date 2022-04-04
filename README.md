@@ -1,6 +1,6 @@
-# AppStream CPRS
+# CPRS AppStream
 
-* Secure, direct access to CPRS anywhere on any device with an HTML browser.
+* Secure, direct streaming of CPRS anywhere on any device with any web browser
 * No browser plugins required.
 
 Reference:
